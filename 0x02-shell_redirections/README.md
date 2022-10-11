@@ -1,1 +1,1 @@
-Reverse input
+Displays all users and their home directories, sorted by users
