@@ -1,1 +1,1 @@
-Add /action to the PATH
+creates a new global variable
