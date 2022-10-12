@@ -1,1 +1,1 @@
-Prints result of power
+result of BREATH to the power LOVE
