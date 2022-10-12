@@ -1,1 +1,1 @@
-Every other line
+Adds two numbers
